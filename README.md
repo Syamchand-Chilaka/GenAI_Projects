@@ -1,1 +1,3 @@
-# Gen-AI-Course
+# Gen-AI-Projects
+
+By Syamchand
